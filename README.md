@@ -1,6 +1,6 @@
 # 🍀 &nbsp;  LFI FINDER TOOL  &nbsp;  🍀
 
-<img src="https://i.imgur.com/fT3ayTm.png" width="60%"></img>
+<img src="https://i.imgur.com/fT3ayTm.png" width="70%"></img>
 
 
 
