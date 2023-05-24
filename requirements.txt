@@ -1,0 +1,9 @@
+selenium==3.141.0
+urllib3==1.25.10
+geckodriver-autoinstaller==0.1.0
+pygeckodriver==0.26.0
+selenium-firefox==0.5.18
+pillow==7.1.0
+httplib2==0.18.0
+twisted==20.3.0
+pycrypto==2.6.1
